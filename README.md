@@ -10,7 +10,7 @@ After finishing my Bootcamp, I am looking for an entry position as Junior Full-S
 
 For more information about my professional profile, feel free to visit my [LinkedIn](https://www.linkedin.com/in/laura-kapitza/) profile.🧑🏼‍⚕️   
 
-Skills:
-🖥 Languages: JavaScript, Python, HTML5, CSS
-📚 Libraries and Frameworks: React, Node.js, Django
-⌗ Databases: MongoDB, PostgreSQL
+Skills: \
+🖥 Languages: JavaScript, Python, HTML5, CSS \
+📚 Libraries and Frameworks: React, Node.js, Django \
+⌗ Databases: MongoDB, PostgreSQL \
