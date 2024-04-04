@@ -6,5 +6,5 @@ For more information about my professional profile, feel free to visit my [Linke
 
 Skills: \
 🖥 Languages: JavaScript, TypeScript, Python, Java, SQL, HTML5, CSS \
-📚 Libraries and Frameworks: React, Node.js, Django, Jest, KafkaJS, Knex \
+📚 Libraries and Frameworks: React, Node.js, NestJs, Jest, KafkaJs, Knex \
 ⌗ Databases: MongoDB, PostgreSQL
